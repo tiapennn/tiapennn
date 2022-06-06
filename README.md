@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**tiapennn/tiapennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+Here are some interesting things about me !
 
 - 🔭 I’m currently studying on SMAK 7 PENABUR Jakarta
 - 🌱 I’m currently learning for final exam
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram (@stevenamora)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->lazy person
+lazy person

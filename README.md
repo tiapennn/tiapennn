@@ -11,5 +11,5 @@ Here are some interesting things about me !
 - 💬 Ask me about gamee
 - 📫 How to reach me: Instagram (@stevenamora)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-lazy person
+- ⚡ Fun fact:
+ - lazy person
